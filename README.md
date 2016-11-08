@@ -3,3 +3,5 @@ The project tracks metrics of mental & emotional health by applying Natural Lang
 
 ([Link](https://bobtian.wordpress.com/mental-health-metrics-from-im-chat-logs/) to blog for more information on the project)
 ![image](arc.png)
+![image](months.png)
+![image](cloud.png)
